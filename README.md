@@ -18,7 +18,9 @@ This is my personal portfolio web application, showcasing my projects, skills, a
 ## Getting Started
 
 To view the portfolio:
+   ```bash
+   https://my-portfolio-xi-livid-93.vercel.app/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/anjalimadd/my-portfolio/
+   git clone https://github.com/AnuragAnand198/my-portfolio/
